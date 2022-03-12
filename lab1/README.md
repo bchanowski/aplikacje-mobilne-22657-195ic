@@ -2,11 +2,11 @@
 
 Aplikację stworzyłem przy pomocy Expo, testowałem używając Android Studio z ustawieniami Google Pixel 5 z Androidem 12.0. Przy tworzeniu strony bazowałem na jednej z aplikacji przykładowych z treści zadania (https://github.com/ReactNativeSchool/react-native-calculator)  
 
-###Działanie Aplikacji  
+### Działanie Aplikacji  
 
 ![Dzialanie strony](/lab1/assets/calc.gif "Dzialanie strony")  
 
-###Omówienie  
+### Omówienie  
 
 W plikach Button.js oraz Row.js tworzę komponenty, którę będą odpowiadać za odpowiedne stworzenie przycisków i ich wygląd oraz rozmieszczenie.  
 
