@@ -12,7 +12,7 @@ Aplikację stworzyłem przy pomocy Expo, testowałem używając Android Studio z
 
 #### Styl  
 
-![MainPage](/lab2/assets/mainpagestyle.png "MainPage")  
+![MainPage](/lab2/assets/stylemain.png "MainPage")  
 
 ### HookUseState  
 
