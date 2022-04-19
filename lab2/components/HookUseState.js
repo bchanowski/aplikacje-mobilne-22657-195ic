@@ -27,10 +27,10 @@ export default function HookUseState({navigation}) {
                 }</Text>
             </View>
             <View style={styles.hookUseState.hookButtons}>
-                <TouchableOpacity style={styles.hookUseState.hookButton} onPress={() => navigation.navigate('LazyLoading')} >
+                <TouchableOpacity style={styles.hookUseState.hookButton} onPress={() => navigation.navigate('RestParameters')} >
                     <Text>Rest Parameters</Text>
                 </TouchableOpacity>
-                <TouchableOpacity style={styles.hookUseState.hookButton} onPress={() => navigation.navigate('StepProgress')} >
+                <TouchableOpacity style={styles.hookUseState.hookButton} onPress={() => navigation.navigate('SpreadOperator')} >
                     <Text>Spread Operator</Text>
                 </TouchableOpacity>
             </View>

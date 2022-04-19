@@ -2,9 +2,9 @@ import React from 'react';
 import { NavigationContainer } from '@react-navigation/native';
 import { createStackNavigator } from '@react-navigation/stack';
 import MainPage from './components/MainPage';
-import SortFiltr from './components/HookUseState';
-import LazyLoading from './components/RestParameters';
-import StepProgress from './components/SpreadOperator';
+import HookUseState from './components/HookUseState';
+import RestParameters from './components/RestParameters';
+import SpreadOperator from './components/SpreadOperator';
 import 'react-native-gesture-handler';
 
 const Stack = createStackNavigator();

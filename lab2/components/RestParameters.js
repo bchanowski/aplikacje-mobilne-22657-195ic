@@ -24,10 +24,10 @@ console.log(sum(1, 2, 3, 4));
                 }</Text>
             </View>
             <View style = {styles.restParameters.restButtons}>
-                <TouchableOpacity style={styles.restParameters.restButton} onPress={() => navigation.navigate('SortFiltr')} >
+                <TouchableOpacity style={styles.restParameters.restButton} onPress={() => navigation.navigate('HookUseState')} >
                     <Text style = {styles.restParameters.restText}>HookUseState</Text>
                 </TouchableOpacity>
-                <TouchableOpacity style={styles.restParameters.restButton} onPress={() => navigation.navigate('StepProgress')} >
+                <TouchableOpacity style={styles.restParameters.restButton} onPress={() => navigation.navigate('SpreadOperator')} >
                     <Text style = {styles.restParameters.restText}>Spread Operator</Text>
                 </TouchableOpacity>
             </View>

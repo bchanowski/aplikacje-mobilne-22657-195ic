@@ -14,26 +14,26 @@ Aplikację stworzyłem przy pomocy Expo, testowałem używając Android Studio z
 
 ![MainPage](/lab2/assets/stylemain.png "MainPage")  
 
-### SortFiltr  
+### HookUseState 
 
-![SortFiltr](/lab2/assets/hookusestate.png "SortFiltr")  
+![HookUseState](/lab2/assets/hookusestate.png "HookUseState")  
 
 #### Styl
 
-![SortFiltr](/lab2/assets/hookusestatestyle.png "SortFiltr")  
+![HookUseState](/lab2/assets/hookusestatestyle.png "HookUseState")  
 
 ### Rest Parameters  
 
-![Rest_Parameters](/lab2/assets/restparameters.png "LazyLoading")  
+![Rest_Parameters](/lab2/assets/restparameters.png "Rest Parameters")  
 
 #### Styl  
 
-![Rest_Parameters](/lab2/assets/restparametersstyle.png "LazyLoading")  
+![Rest_Parameters](/lab2/assets/restparametersstyle.png "Rest Parameters")  
 
 ### Spread Operator  
 
-![Spread_Operator](/lab2/assets/spreadoperator.png "StepProgress")  
+![Spread_Operator](/lab2/assets/spreadoperator.png "spreadoperator")  
 
 #### Styl
 
-![Spread_Operator](/lab2/assets/spreadoperatorstyle.png "StepProgress")  
+![Spread_Operator](/lab2/assets/spreadoperatorstyle.png "spreadoperator")  
