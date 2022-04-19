@@ -24,10 +24,10 @@ console.log(sum.apply(null, numbers));
                 }</Text>
             </View>
             <View style = {styles.spreadOperator.spreadButtons}>
-                <TouchableOpacity style={styles.spreadOperator.spreadButton} onPress={() => navigation.navigate('HookUseState')} >
+                <TouchableOpacity style={styles.spreadOperator.spreadButton} onPress={() => navigation.navigate('SortFiltr')} >
                     <Text>Hook Use State</Text>
                 </TouchableOpacity>
-                <TouchableOpacity style={styles.spreadOperator.spreadButton} onPress={() => navigation.navigate('RestParameters')} >
+                <TouchableOpacity style={styles.spreadOperator.spreadButton} onPress={() => navigation.navigate('LazyLoading')} >
                     <Text>Rest Parameters</Text>
                 </TouchableOpacity>
             </View>
