@@ -14,7 +14,7 @@ const Numbers = ({ liczby }) => {
     );
 };
 
-export default class Sort extends Component{
+export default class SortFiltr extends Component{
     constructor(){
         super();
         const arr = [];

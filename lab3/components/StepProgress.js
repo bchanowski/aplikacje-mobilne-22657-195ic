@@ -3,7 +3,7 @@ import { ActivityIndicator,StyleSheet,View, Text } from 'react-native';
 import { ProgressSteps, ProgressStep } from 'react-native-progress-steps';
 import styles from "./styles/styles";
 
-export default class FirstStepProgress extends Component {
+export default class StepProgress extends Component {
 
     defaultScrollViewProps = {
         keyboardShouldPersistTaps: 'handled',
