@@ -41,7 +41,7 @@ export default function SelectingOptions() {
                 }}
             />
             <SelectComp
-                label="Car"
+                label="Drvier"
                 items={driversList}
                 selectedValue={selectedDriver}
                 onValueChange={driver => {

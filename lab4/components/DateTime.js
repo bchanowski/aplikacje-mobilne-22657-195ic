@@ -13,6 +13,7 @@ export default function DateTime() {
         const currentDate = selectedDate || date;
         setShow(Platform.OS === 'ios');
         setDate(currentDate);
+        alert(currentDate);
     };
 
     const showMode = (currentMode) => {
