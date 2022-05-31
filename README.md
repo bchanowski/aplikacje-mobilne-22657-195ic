@@ -8,3 +8,5 @@
 
 [Lab4](https://github.com/bchanowski/aplikacje-mobilne-22657-195ic/tree/main/lab4)  
 
+[Lab5](https://github.com/bchanowski/aplikacje-mobilne-22657-195ic/tree/main/lab5)  
+
