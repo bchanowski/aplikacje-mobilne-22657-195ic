@@ -12,7 +12,7 @@ export default function MainPage({ navigation }) {
       </TouchableOpacity>
       <TouchableOpacity
         style={styles.mainPage.mainButton}
-        onPress={() => navigation.navigate("ImageSize")}
+        onPress={() => navigation.navigate("ImageSlider")}
       >
         <Text style={styles.mainPage.mainText}>Image Size Slider</Text>
       </TouchableOpacity>

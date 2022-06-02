@@ -31,11 +31,52 @@ styles.imagesLoad = StyleSheet.create({
     borderRadius: 50,
     borderColor: "#980000",
     borderWidth: 1,
+    margin: 5,
   },
   imageText: {
     fontSize: 24,
     color: "white",
     alignSelf: "center",
+  },
+});
+
+styles.imagesSlider = StyleSheet.create({
+  sliderView: {
+    flex: 1,
+    backgroundColor: "#000000",
+    alignItems: "center",
+    justifyContent: "center",
+  },
+  sliderImg: {
+    flex: 2,
+    width: "95%",
+    borderRadius: 50,
+    borderColor: "#980000",
+    borderWidth: 1,
+    marginTop: 20,
+  },
+});
+
+styles.lazyLoading = StyleSheet.create({
+  loadView: {
+    flex: 1,
+    backgroundColor: "#000000",
+    alignItems: "center",
+    justifyContent: "center",
+  },
+  loadImg: {
+    flex: 1,
+    width: "95%",
+    borderRadius: 50,
+    borderColor: "#980000",
+    borderWidth: 1,
+    marginTop: 20,
+  },
+  loadIcons: {
+    flexDirection: "row",
+    margin: "2%",
+    flexWrap: "wrap",
+    justifyContent: "space-around",
   },
 });
 
