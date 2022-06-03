@@ -1,9 +1,11 @@
 import { NavigationContainer } from "@react-navigation/native";
 import { createStackNavigator } from "@react-navigation/stack";
+import "react-native-gesture-handler";
 import ImageLoad from "./components/ImageLoad";
 import MainPage from "./components/MainPage";
 import ImageSlider from "./components/ImageSlider";
 import LazyLoading from "./components/LazyLoading";
+import WebInfo from "./components/WebInfo";
 
 const Stack = createStackNavigator();
 
@@ -15,6 +17,7 @@ export default function App() {
         <Stack.Screen name="ImageLoad" component={ImageLoad} />
         <Stack.Screen name="ImageSlider" component={ImageSlider} />
         <Stack.Screen name="LazyLoading" component={LazyLoading} />
+        <Stack.Screen name="WebInfo" component={WebInfo} />
       </Stack.Navigator>
     </NavigationContainer>
   );

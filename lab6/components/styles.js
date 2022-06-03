@@ -80,4 +80,25 @@ styles.lazyLoading = StyleSheet.create({
   },
 });
 
+styles.webInfo = StyleSheet.create({
+  webView: {
+    flex: 1,
+    backgroundColor: "#000000",
+    alignItems: "center",
+    justifyContent: "center",
+  },
+  webBorder: {
+    backgroundColor: "#980000",
+    borderRadius: 50,
+    borderColor: "#980000",
+    borderWidth: 1,
+    padding: 20,
+  },
+  webText: {
+    fontSize: 28,
+    color: "white",
+    alignSelf: "center",
+  },
+});
+
 export default styles;
