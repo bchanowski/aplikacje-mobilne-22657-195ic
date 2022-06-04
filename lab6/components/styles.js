@@ -101,4 +101,62 @@ styles.webInfo = StyleSheet.create({
   },
 });
 
+styles.asyncStor = StyleSheet.create({
+  asyncView: {
+    flex: 1,
+    backgroundColor: "#000000",
+    alignItems: "center",
+    justifyContent: "center",
+    color: "white",
+  },
+  asyncView2: {
+    backgroundColor: "#980000",
+    color: "white",
+    height: "70%",
+    width: "70%",
+    alignItems: "center",
+    justifyContent: "center",
+    borderRadius: 50,
+    padding: 10,
+  },
+  asyncInput: {
+    color: "white",
+    borderWidth: 1,
+    borderRadius: 50,
+    borderColor: "black",
+    width: "90%",
+    margin: 5,
+    padding: 5,
+  },
+  asyncButton: {
+    backgroundColor: "#fff",
+    borderRadius: 50,
+    margin: 5,
+    padding: 10,
+  },
+});
+
+styles.syncData = StyleSheet.create({
+  syncView: {
+    flex: 1,
+    backgroundColor: "#000000",
+    alignItems: "center",
+    justifyContent: "center",
+  },
+  syncView2: {
+    backgroundColor: "#980000",
+    height: "70%",
+    width: "70%",
+    alignItems: "center",
+    justifyContent: "center",
+    borderRadius: 50,
+    padding: 10,
+  },
+  syncText: {
+    fontSize: 28,
+    color: "white",
+    alignSelf: "center",
+  },
+});
+
 export default styles;
