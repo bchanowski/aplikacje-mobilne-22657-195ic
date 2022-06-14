@@ -10,4 +10,6 @@
 
 [Lab5](https://github.com/bchanowski/aplikacje-mobilne-22657-195ic/tree/main/lab5)
 
-[Lab6](https://github.com/bchanowski/aplikacje-mobilne-22657-195ic/tree/main/lab6) :soon:
+[Lab6](https://github.com/bchanowski/aplikacje-mobilne-22657-195ic/tree/main/lab6)  
+
+[Lab7](https://github.com/bchanowski/aplikacje-mobilne-22657-195ic/tree/main/lab7) :soon:
