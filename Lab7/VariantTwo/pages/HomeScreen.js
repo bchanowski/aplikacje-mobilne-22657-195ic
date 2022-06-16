@@ -1,5 +1,5 @@
 import React, {useEffect} from 'react';
-import {View, Text, SafeAreaView} from 'react-native';
+import {View, SafeAreaView} from 'react-native';
 import MyButton from './components/MyButton';
 import MyText from './components/MyText';
 import {openDatabase} from 'react-native-sqlite-storage';
